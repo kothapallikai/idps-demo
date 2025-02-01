@@ -1,2 +1,0 @@
-# idps-demo
-IDPS demo
